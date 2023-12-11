@@ -1,9 +1,9 @@
 {
-  "name": "AltStore Complete",
-  "identifier": "com.rileytestut.AltStore.Complete",
-  "apiVersion": "v2",
+  "name": "veora Repo",
+  "identifier": "veora",
+  "apiVersion": "v1",
   "subtitle": "Contains tweaked apps, free streaming, cracked apps, and more.",
-  "description": "Find all the apps Riley Testut and the AltStore Team has ever released all in one AltSource! Regular, Beta, Alpha, this source has it all. This source is an automatically kept up-to-date source, powered by GitHub Actions, the Python altparse library.",
+  "description": "This source is an automatically kept up-to-date source, powered by GitHub Actions, the Python altparse library.",
   "iconURL": "https://quarksources.github.io/assets/ElementQ-Circled.png",
   "headerURL": "https://quarksources.github.io/assets/altstore-complete.png",
   "website": "https://quarksources.github.io/",
