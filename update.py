@@ -11,31 +11,13 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 sources_data = [
     {
-        "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://apps.altstore.io"},
-        "ids": ["com.rileytestut.AltStore", "com.rileytestut.AltStore.Beta", "com.rileytestut.Delta", "com.rileytestut.Delta.Beta", "com.rileytestut.Clip", "com.rileytestut.Clip.Beta"],
-        "getAllNews": True
-    },
-    {
-        "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://alpha.altstore.io"},
-        "ids": ["com.rileytestut.AltStore.Alpha", "com.rileytestut.Delta.Alpha"],
-        "getAllNews": True
+        "parser": Parser.GITHUB,
+        "kwargs": {"repo_author": "StreamerApp", "repo_name": "Streamer"},
+        "ids": ["com.streamer.ios"]
     }
 ]
 alternate_app_data = {
-    "com.rileytestut.AltStore.Beta": {
-        "name": "AltStore (Beta)",
-        "beta": False
-    },
-    "com.rileytestut.Delta.Beta": {
-        "name": "Delta (Beta)",
-        "beta": False
-    },
-    "com.rileytestut.Clip.Beta": {
-        "name": "Clip (Beta)",
-        "beta": False
-    }
+        "none"
 }
 
 src = altsource_from_file("altstore-complete.json")
