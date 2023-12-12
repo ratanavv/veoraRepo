@@ -9,7 +9,7 @@ sources_data = [
     {
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "StreamerApp", "repo_name": "Streamer"},
-        "ids": ["org.streamer.ios"]
+        "ids": ["com.streamer.ios"]
     }
 ]
 alternate_app_data = {
