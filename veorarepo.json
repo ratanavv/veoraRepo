@@ -95,6 +95,7 @@
             "screenshotURLs": [],
             "versions": [
                 {
+                  "absoluteVersion": "0.6.5",
                   "version": "0.6.5",
                   "date": "2023-09-04",
                   "localizedDescription": "",
@@ -115,6 +116,7 @@
             "screenshotURLs": [],
             "versions": [
                 {
+                  "absoluteVersion": "1.1",
                   "version": "1.1",
                   "date": "2023-09-11",
                   "localizedDescription": "Updated to use my server. I think there's a bug on ipad (crash.) Anyone confirm?",
@@ -142,6 +144,7 @@
             ],
             "versions": [
                 {
+                  "absoluteVersion": "18.49.3",
                   "version": "18.49.3",
                   "date": "2023-12-12",
                   "localizedDescription": "• Updated YouTube to 18.49.3\n • uYou is using 3.0.1\n •Full changelog: \n https://github.com/arichorn/uYouEnhanced/releases/tag/v18.49.3-3.0.1",
