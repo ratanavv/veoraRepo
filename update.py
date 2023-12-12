@@ -10,6 +10,11 @@ sources_data = [
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "StreamerApp", "repo_name": "Streamer"},
         "ids": ["com.streamer.ios"]
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://raw.githubusercontent.com/arichorn/arichorn.github.io/main/apps.json"},
+        "ids": ["com.google.ios.youtube"]
     }
 ]
 alternate_app_data = {
