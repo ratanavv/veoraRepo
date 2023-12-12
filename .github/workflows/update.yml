@@ -1,8 +1,8 @@
 name: Update sources
 
 on:
-  schedule:
-    - cron:  '25,55 * * * *'
+ # schedule:
+#    - cron:  '25,55 * * * *'
   workflow_dispatch:
 
 jobs:
