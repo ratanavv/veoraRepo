@@ -8,7 +8,40 @@
     "tintColor": "#F54F32",
     "featuredApps": [],
     "apps": [
+        "apps": [
+    {
+      "name": "Streamer",
+      "bundleIdentifier": "com.streamer.ios",
+      "developerName": "StreamerApp",
+      "subtitle": "App for Streaming Movies and TV shows",
+      "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies\n",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/{bundle_id}.png",
+      "tintColor": "#5e5e5e",
+      "screenshotURLs": ["https://user-images.githubusercontent.com/96978272/191682345-f882e099-3ba3-4851-b5db-b9709bc64abe.png"],
+      "versions": [
         {
+          "absoluteVersion": "1.2.17",
+          "version": "1.2.17",
+          "buildVersion": "131",
+          "date": "2023-05-28T11:14:53Z",
+          "localizedDescription": "# v1.2.17 Release\n\n- Fix Flixtor and 123Movies providers\r\n- Restore compatibility with iOS 14 devices\r\n- Introduce a new user interface for server selection in anticipation of Real-Debrid integration\r\n- Display available storage space on the device on the download page\r\n\r\nDon\u2019t like ads? Consider donating to Streamer through https://buymeacoffee.com/streamerapp. Upon donation, we will email you a code to disable ads in the app. \ud83c\udf89\r\n",
+          "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.17/Streamer-iOS.ipa",
+          "size": 13568452,
+          "sha256": "0559bccd8ee36d7c65f4494cd748fb6a94d7bdf921f8bd8b499987611aef2ddb"
+        },
+        {
+          "version": "1.2.12",
+          "date": "2023-04-07",
+          "localizedDescription": "- fixes Akwam, Cima4now, StreamingCommunity, KinoKiste, Zoro.to \n - fixes search for Flixtor, Fmovies.to, sflix.pro",
+          "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.12/Streamer-iOS.ipa",
+          "size": 1170000,
+          "sha256": "43470de9f9101b2e3560a8001cd82435f99a19cc6adda40946a9cb24f4194f5c"
+        }
+      ],
+      "appPermissions": {},
+      "appID": "com.streamer.ios"
+    },
+    {
             "name": "Jaility",
             "bundleIdentifier": "org.haxi0.Jaility",
             "developerName": "haxi0",
