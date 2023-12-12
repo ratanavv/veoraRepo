@@ -22,6 +22,11 @@ sources_data = [
         "ids": ["com.google.ios.youtube"]
     },
     {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json"},
+        "ids": ["com.hammerandchisel.discord"]
+    },
+    {
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "yattee", "repo_name": "yattee"},
         "ids": ["stream.yattee.app"]
