@@ -85,23 +85,28 @@
       "appID": "com.streamer.ios"
     },
     {
-            "name": "Aidoku",
-            "bundleIdentifier": "xyz.skitty.Aidoku",
-            "developerName": "Aidoku",
-            "subtitle": "Aidoku",
-            "localizedDescription": "Aidoku",
-            "tintColor": "",
-            "iconURL": "",
-            "screenshotURLs": [],
-            "versions": [
-                {
-                  "absoluteVersion": "0.6.5",
-                  "version": "0.6.5",
-                  "date": "2023-09-04",
-                  "localizedDescription": "",
-                  "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa"
-                }
-              ],
+      "name": "Aidoku",
+      "bundleIdentifier": "xyz.skitty.Aidoku",
+      "developerName": "Aidoku",
+      "subtitle": "App for Comic",
+      "localizedDescription": "App for read Comic on iOS",
+      "iconURL": "https://i.imgur.com/JbUuxP9.png",
+      "tintColor": "#5e5e5e",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/96978272/191682345-f882e099-3ba3-4851-b5db-b9709bc64abe.png"
+      ],
+      "versions": [
+        {
+          "absoluteVersion": "0.6.5",
+          "version": "0.6.5",
+          "buildVersion": "",
+          "date": "2023-09-04",
+          "localizedDescription": "V0.6.5",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa",
+          "size": ,
+          "sha256": ""
+          }
+       ],
             "appPermissions": {},
             "appID": "xyz.skitty.Aidoku"
     },
