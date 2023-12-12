@@ -99,11 +99,10 @@
         {
           "absoluteVersion": "0.6.5",
           "version": "0.6.5",
-          "buildVersion": "",
           "date": "2023-09-04",
           "localizedDescription": "V0.6.5",
           "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa"
-          }
+        }
        ],
             "appPermissions": {},
             "appID": "xyz.skitty.Aidoku"
