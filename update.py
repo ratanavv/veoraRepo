@@ -15,6 +15,11 @@ sources_data = [
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://raw.githubusercontent.com/arichorn/arichorn.github.io/main/apps.json"},
         "ids": ["com.google.ios.youtube"]
+    },
+    {
+        "parser": Parser.GITHUB,
+        "kwargs": {"repo_author": "Aidoku", "repo_name": "Aidokuu"},
+        "ids": ["xyz.shitty.Aidoku"]
     }
 ]
 alternate_app_data = {
