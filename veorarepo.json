@@ -88,17 +88,18 @@
             "name": "Aidoku",
             "bundleIdentifier": "xyz.skitty.Aidoku",
             "developerName": "Aidoku",
-            "subtitle": "",
-            "localizedDescription": "",
+            "subtitle": "Aidoku",
+            "localizedDescription": "Aidoku",
             "tintColor": "#5e5e5e",
-            "screenshotURLs": [],
+            "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
+            "screenshotURLs": ["https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png"],
             "versions": [
                 {
                   "version": "0.6.5",
                   "date": "2023-09-04",
                   "localizedDescription": "Pin sources option,Ability to save cover images,Crop page borders setting,Haptic feedback for reader slider,Mark all chapters option in manga page",
                   "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa",
-                  "size":,
+                  "size":3068930,
                 }
               ],
             "appPermissions": {}
