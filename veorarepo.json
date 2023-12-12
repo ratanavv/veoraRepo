@@ -101,7 +101,8 @@
           "version": "v0.6.5",
           "date": "2023-09-04",
           "localizedDescription": "V0.6.5",
-          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa"
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa",
+          "size": 3067829
         }
        ],
             "appPermissions": {},
@@ -109,24 +110,25 @@
     },
     {
             "name": "AppStore++",
-            "bundleIdentifier": "com.cokepokes.AppStorePlusa",
+            "bundleIdentifier": "com.cokepokes.AppStorePlus",
             "developerName": "cokepokes",
             "subtitle": "AppStorePlusa",
-            "localizedDescription": ".AppStorePlusa",
+            "localizedDescription": "AppStorePlus",
             "tintColor": "",
             "iconURL": "",
             "screenshotURLs": [],
             "versions": [
                 {
-                  "absoluteVersion": "1.1",
-                  "version": "1.1",
+                  "absoluteVersion": "release",
+                  "version": "release",
                   "date": "2023-09-11",
                   "localizedDescription": "Updated to use my server. I think there's a bug on ipad (crash.) Anyone confirm?",
                   "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/release/AppStore++_TrollStore_v1.1.ipa"
+                  "size": 
                 }
               ],
             "appPermissions": {},
-            "appID": "com.cokepokes.AppStorePlusa"
+            "appID": "com.cokepokes.AppStorePlus"
     },
     {
             "name": "uYouEnhanced",
