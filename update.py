@@ -12,14 +12,14 @@ sources_data = [
         "ids": ["com.streamer.ios"]
     },
     {
-        "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://raw.githubusercontent.com/arichorn/arichorn.github.io/main/apps.json"},
-        "ids": ["com.google.ios.youtube"]
-    },
-    {
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "Aidoku", "repo_name": "Aidoku"},
         "ids": ["xyz.skitty.Aidoku"]
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://raw.githubusercontent.com/arichorn/arichorn.github.io/main/apps.json"},
+        "ids": ["com.google.ios.youtube"]
     }
 ]
 alternate_app_data = {
