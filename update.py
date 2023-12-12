@@ -20,6 +20,11 @@ sources_data = [
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://raw.githubusercontent.com/arichorn/arichorn.github.io/main/apps.json"},
         "ids": ["com.google.ios.youtube"]
+    },
+    {
+        "parser": Parser.GITHUB,
+        "kwargs": {"repo_author": "CokePokes", "repo_name": "AppStorePlus-TrollStore"},
+        "ids": ["com.cokepokes.AppStorePlusa"]
     }
 ]
 alternate_app_data = {
