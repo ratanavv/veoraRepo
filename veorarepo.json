@@ -119,12 +119,12 @@
             "screenshotURLs": [],
             "versions": [
                 {
-                  "absoluteVersion": "release",
-                  "version": "release",
+                  "absoluteVersion": "v1.1",
+                  "version": "v1.1",
                   "date": "2023-09-11",
                   "localizedDescription": "Updated to use my server. I think there's a bug on ipad (crash.) Anyone confirm?",
                   "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/release/AppStore++_TrollStore_v1.1.ipa"
-                  "size": 
+                  "size": 3575757
                 }
               ],
             "appPermissions": {},
