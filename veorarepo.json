@@ -101,7 +101,8 @@
                   "downloadURL": ""
                 }
               ],
-            "appPermissions": {}
+            "appPermissions": {},
+            "appID": "xyz.skitty.Aidoku"
     },
     {
             "name": "uYouEnhanced",
