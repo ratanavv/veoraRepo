@@ -101,7 +101,8 @@
           "version": "v0.6.5",
           "date": "2023-09-04",
           "localizedDescription": "V0.6.5",
-          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa"
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa",
+          "size": 3206258
         }
        ],
             "appPermissions": {},
