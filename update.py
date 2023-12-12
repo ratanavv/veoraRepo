@@ -23,8 +23,8 @@ sources_data = [
     },
     {
         "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "CokePokes", "repo_name": "AppStorePlus-TrollStore"},
-        "ids": ["com.cokepokes.AppStorePlusa"]
+        "kwargs": {"repo_author": "yattee", "repo_name": "yattee"},
+        "ids": ["stream.yattee.app"]
     }
 ]
 alternate_app_data = {
