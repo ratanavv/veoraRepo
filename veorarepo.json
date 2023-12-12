@@ -85,6 +85,25 @@
       "appID": "com.streamer.ios"
     },
     {
+            "name": "Aidoku",
+            "bundleIdentifier": "xyz.shitty.Aidoku",
+            "developerName": "Aidoku",
+            "subtitle": "",
+            "localizedDescription": "",
+            "tintColor": "",
+            "screenshotURLs": [],
+            "versions": [
+                {
+                  "version": "",
+                  "date": "",
+                  "localizedDescription": "",
+                  "downloadURL": "",
+                  "size":,
+                }
+              ],
+            "appPermissions": {}
+    },
+    {
             "name": "uYouEnhanced",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Various Developers",
