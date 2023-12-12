@@ -30,5 +30,5 @@ try:
     veora_repo.save()
     veora_repo.save(alternate_dir="dist/veorarepo.min.json",prettify=False)
 except Exception as err:
-    logging.error(f"Unable to update {alt_complete.src.name}.")
+    logging.error(f"Unable to update {veora_repo.src.name}.")
     logging.error(f"{type(err).__name__}: {str(err)}")
