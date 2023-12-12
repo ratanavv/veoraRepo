@@ -18,8 +18,8 @@ sources_data = [
     },
     {
         "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "Aidoku", "repo_name": "Aidokuu"},
-        "ids": ["xyz.shitty.Aidoku"]
+        "kwargs": {"repo_author": "Aidoku", "repo_name": "Aidoku"},
+        "ids": ["xyz.skitty.Aidoku"]
     }
 ]
 alternate_app_data = {
