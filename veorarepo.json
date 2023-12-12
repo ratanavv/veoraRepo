@@ -96,9 +96,9 @@
             "versions": [
                 {
                   "version": "0.6.5",
-                  "date": "",
+                  "date": "2023-09-04",
                   "localizedDescription": "",
-                  "downloadURL": ""
+                  "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa"
                 }
               ],
             "appPermissions": {},
@@ -131,7 +131,8 @@
                   "maxOSVersion": "17.0"
                 }
               ],
-            "appPermissions": {}
+            "appPermissions": {},
+            "appID": "xyz.skitty.Aidoku"
         }
   ],
   "news": []
