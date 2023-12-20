@@ -239,44 +239,6 @@
       },
       "appID": "com.google.ios.youtube"
     },
-  ##  {
-      "name": "Yattee",
-      "developerName": "Yattee",
-      "subtitle": "Alternative YouTube frontend",
-      "localizedDescription": "Alternative YouTube frontent for iOS, tvOS and macOS built with Invidious and Piped.\nFeatures:\n- Native user interface built with SwiftUI\n- Multiple instances and accounts, fast switching\n- SponsorBlock, configurable categories to skip\n- Player queue and history\n- Fullscreen playback, Picture in Picture and AirPlay support\n- Stream quality selection\n- Favorites: customizable section of channels, playlists, trending, searches and other views",
-      "iconURL": "https://r.yattee.stream/icons/yattee-300-rectangle.png",
-      "tintColor": "21335C",
-      "screenshotURLs": [
-        "https://r.yattee.stream/screenshots/iOS/trending.png",
-        "https://r.yattee.stream/screenshots/iOS/player.png",
-        "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "1.5",
-          "version": "1.5",
-          "buildVersion": "166",
-          "date": "2023-10-17T06:42:37Z",
-          "localizedDescription": "# v1.5\n\n## What's Changed\r\n* Added support for \"Podcasts\" and \"Releases\" channel tabs (Invidious)\r\n* Added button in Location settings to add current used public location to \"Custom Locations\"\r\n* Search text field focuses automatically on macOS\r\n* Added Info section in Player settings\r\n  Added option to hide chapters\r\n  Added option to hide related videos\r\n  Moved other previous Info section settings\r\n* Increased controls timeline/scrubber gesture area for easier handling\r\n* Fixed handling playlist links\r\n* Fixed issue where Piped videos would use audio for other language version\r\n* Fixed issue with handling opening URLs on macOS\r\n* Fixed issue with \"Keep channels with unwatched videos on top of subscriptions list\" setting not honored in sidebar\r\n* Fixed performance issues with accounts with large amount of subscribed channels\r\n* Fixed regression with opening videos links\r\n* Fixed issue with deselecting formats in Quality profiles\r\n* Fixed issue with formatting video dates (Piped)\r\n* Fixed issue where screensaver would turn on while playing video with AVPlayer on tvOS\r\n* Fixed compatibility with iOS 17, macOS 14 and tvOS 17\r\n* Updated mpv and dependencies (using mpvkit library, mpv 0.36.0, ffmpeg 6.0)\r\n* Fixed reported crashes\r\n* Other minor fixes and improvements\r\n\r\n## New Contributors\r\n* @PabloMz85 made their first contribution in https://github.com/yattee/yattee/pull/494\r\n* @amaumene made their first contribution in https://github.com/yattee/yattee/pull/507\r\n* @dnicolson made their first contribution in https://github.com/yattee/yattee/pull/531\r\n\r\n**Full Changelog**: https://github.com/yattee/yattee/compare/v1.4.5...v1.5",
-          "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.5/Yattee-1.5-tvOS.ipa",
-          "size": 15925908,
-          "sha256": "d89b41d57d54481f18e4805a7aeb5b475999c503f034c0671af8c5b2465979b8"
-        },
-        {
-          "version": "1.3.5",
-          "date": "2022-08-17",
-          "localizedDescription": "- Fixed reported crash\n- Fixed issue where \"Add to Playlist\" window cannot be closed when there is no playlists",
-          "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.3.5/Yattee-1.3.5-iOS.ipa",
-          "size": 2522502,
-          "sha256": "459462a7cc3fb009d33a7b52aca756f536555a31f79acfaba0586eea47698c8b"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": []
-      },
-      "appID": "stream.yattee.app"
-    },
     {
       "name": "TrollSpeed",
       "bundleIdentifier": "ch.xxtou.hudapp",
