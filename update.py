@@ -26,15 +26,15 @@ sources_data = [
         "kwargs": {"filepath": "https://raw.githubusercontent.com/arichorn/arichorn.github.io/main/apps.json"},
         "ids": ["com.google.ios.youtube"]
     },
+  #  {
+  #      "parser": Parser.GITHUB,
+  #      "kwargs": {"repo_author": "yattee", "repo_name": "yattee"},
+  #      "ids": ["stream.yattee.app"]
+  #  }
     {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json"},
         "ids": ["com.hammerandchisel.discord"]
-    },
-    {
-        "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "yattee", "repo_name": "yattee"},
-        "ids": ["stream.yattee.app"]
     }
 ]
 alternate_app_data = {
