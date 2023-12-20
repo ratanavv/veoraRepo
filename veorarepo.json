@@ -243,19 +243,19 @@
       "bundleIdentifier": "ch.xxtou.hudapp",
       "developerName": "Lessica",
       "subtitle": "Shows upload & download speed below the status bar.",
-      "localizedDescription": "Shows upload & download speed below the status bar./n Tested and expected to work on all iOS versions supported by opa334’s TrollStore./n You need to enable “Developer Mode” on iOS 16 or above to use TrollSpeed or Misaka.",
+      "localizedDescription": "Shows upload & download speed below the status bar.\n \n Tested and expected to work on all iOS versions supported by opa334’s TrollStore.\n \n You need to enable “Developer Mode” on iOS 16 or above to use TrollSpeed or Misaka.",
       "iconURL": "https://github.com/Lessica/TrollSpeed/blob/753804e5aa7303feb6aca3853ca7a34f41a513ea/layout/Applications/TrollSpeed.app/icon.png",
       "tintColor": "21335C",
       "screenshotURLs": ["https://user-images.githubusercontent.com/5410705/213263734-1ef1b553-88d4-41cc-856e-891ea08d185c.jpeg"],
       "versions": [
         {
-          "absoluteVersion": "v1.9.1",
-          "version": "v1.9.1",
-          "buildVersion": "v1.9.1",
-          "date": "2023-12-16",
-          "localizedDescription": "(Experimental) Adjust vertical position of the HUD by tapping and dragging. /n/n Not available for centered HUD. /n/n Not supported by all versions of iOSSupports dragging in landscape mode.",
-          "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.1/TrollSpeed_v1.9.1.tipa",
-          "size": 146568,
+          "absoluteVersion": "1.8.9",
+          "version": "1.8.9",
+          "buildVersion": "1.8.9",
+          "date": "2023-12-15",
+          "localizedDescription": "(Experimental) Adjust vertical position of the HUD by tapping and dragging. \n \n Not available for centered HUD. \n \n Not supported by all versions of iOSSupports dragging in landscape mode.",
+          "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.9/TrollSpeed_v1.8.9.tipa",
+          "size": 143000,
           "minOSVersion": "14.0",
           "maxOSVersion": "17.0"
         }
