@@ -243,7 +243,7 @@
       "name": "TrollSpeed",
       "bundleIdentifier": "ch.xxtou.hudapp",
       "developerName": "Lessica",
-      "subtitle": "Shows upload & download speed below the status bar."
+      "subtitle": "Shows upload & download speed below the status bar.",
       "localizedDescription": "Shows upload & download speed below the status bar./n Tested and expected to work on all iOS versions supported by opa334’s TrollStore./n You need to enable “Developer Mode” on iOS 16 or above to use TrollSpeed or Misaka.",
       "iconURL": "https://github.com/Lessica/TrollSpeed/blob/753804e5aa7303feb6aca3853ca7a34f41a513ea/layout/Applications/TrollSpeed.app/icon.png",
       "tintColor": "21335C",
@@ -254,9 +254,9 @@
           "version": "v1.9.1",
           "buildVersion": "1.9.1",
           "date": "2023-12-16",
-          "localizedDescription": "(Experimental) Adjust vertical position of the HUD by tapping and dragging. /n Not available for centered HUD. /n Not supported by all versions of iOSSupports dragging in landscape mode.",
+          "localizedDescription": "(Experimental) Adjust vertical position of the HUD by tapping and dragging. /n/n Not available for centered HUD. /n/n Not supported by all versions of iOSSupports dragging in landscape mode.",
           "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.1/TrollSpeed_v1.9.1.tipa",
-          "size": 15925908
+          "size": 146568
         }
       ],
       "appPermissions": {},
