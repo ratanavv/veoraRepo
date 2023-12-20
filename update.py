@@ -22,6 +22,11 @@ sources_data = [
         "ids": ["ch.xxtou.hudapp"]
     },
     {
+        "parser": Parser.GITHUB,
+        "kwargs": {"repo_author": "enmity-mod", "repo_name": "tweak"},
+        "ids": ["com.hammerandchisel.discord"]
+    },
+    {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://raw.githubusercontent.com/arichorn/arichorn.github.io/main/apps.json"},
         "ids": ["com.google.ios.youtube"]
