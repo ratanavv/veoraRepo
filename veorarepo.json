@@ -251,7 +251,7 @@
         {
           "absoluteVersion": "v1.9.1",
           "version": "v1.9.1",
-          "buildVersion": "1.9.1",
+          "buildVersion": "v1.9.1",
           "date": "2023-12-16",
           "localizedDescription": "(Experimental) Adjust vertical position of the HUD by tapping and dragging. /n/n Not available for centered HUD. /n/n Not supported by all versions of iOSSupports dragging in landscape mode.",
           "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.9.1/TrollSpeed_v1.9.1.tipa",
