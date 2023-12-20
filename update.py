@@ -17,6 +17,11 @@ sources_data = [
         "ids": ["xyz.skitty.Aidoku"]
     },
     {
+        "parser": Parser.GITHUB,
+        "kwargs": {"repo_author": "Lessica", "repo_name": "TrollSpeed"},
+        "ids": ["ch.xxtou.hudapp"]
+    },
+    {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://raw.githubusercontent.com/arichorn/arichorn.github.io/main/apps.json"},
         "ids": ["com.google.ios.youtube"]
